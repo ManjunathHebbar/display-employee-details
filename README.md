@@ -5,10 +5,10 @@
 ### Clone the project
 
 Run the command
- ### `git clone https://github.com/ManjunathHebbar/user-details.git`
- 
+ ### `git clone https://github.com/ManjunathHebbar/display-employee-details.git`
+
  Go to project directory
- ### `user-details`
+ ### `cd display-employee-details`
  
  ### Package install
 
